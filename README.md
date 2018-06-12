@@ -8,6 +8,6 @@ Use this as a starting point for all your Joomla! 2.5 components.
 
 ## Contributors
 
-Christophe Demko
-Ozgur Aksu
-Lukas Meier
+* Christophe Demko
+* Ozgur Aksu
+* Lukas Meier
